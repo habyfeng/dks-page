@@ -1,5 +1,5 @@
 # dks-page
- pagination component dependent on JQuery
+ pagination component dependent on JQuery.It is developed secondarily on the base of bootstrap-treeview.
 
 ## 用法
 ```html
